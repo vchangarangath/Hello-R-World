@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1588255325309.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "203728565",
+    "id" : "C37E37D0",
+    "lastKnownWriteTime" : 1588255093,
+    "last_content_update" : 1588255093,
+    "path" : "D:/R_Projects/R_project_2/Mean2.R",
+    "project_path" : "Mean2.R",
+    "properties" : {
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
